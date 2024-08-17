@@ -1,0 +1,36 @@
+
+
+.firstrow {
+    height: 75px; /* Set your desired height */
+}
+
+.footerrow {
+    height: 75px; /* Set your desired height */
+}
+
+
+
+.maindiv{
+
+    height: 350px;
+    background-color: rgb(32, 215, 32);
+    color: aliceblue;
+}
+
+.sidediv{
+
+    height: 350px;
+    background-color: red;
+    color: aliceblue;
+}
+
+.inneritem{
+    padding: 5px;
+    width: 75px;
+    height: 75px;
+    background-color: darkgreen;
+    box-shadow: inset;
+    margin-bottom: 12px;
+    border-radius: 4px;
+    color: aliceblue;
+}
