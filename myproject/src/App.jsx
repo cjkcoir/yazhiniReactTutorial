@@ -1,12 +1,12 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Navtabs from "./Components/Navtabs";
+import TableComp from "./Components/TableComp";
 
 function App() {
   return (
     <>
 
-<Navtabs></Navtabs>
+<TableComp></TableComp>
     </>
   );
 }
