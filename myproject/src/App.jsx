@@ -1,12 +1,12 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import TableComp from "./Components/TableComp";
+import ImageDownload from "./Components/ImageDownload";
 
 function App() {
   return (
     <>
 
-<TableComp></TableComp>
+<ImageDownload></ImageDownload>
     </>
   );
 }

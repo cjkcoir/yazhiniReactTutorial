@@ -3,7 +3,7 @@ function Greet({name,age,children}) {
   return (
     <>
       <h1>
-        Hello {name} {age} {children}
+        Hello {name} {age}{children}
       </h1>
     </>
   );
