@@ -1,12 +1,11 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import ImageDownload from "./Components/ImageDownload";
+import AxiosPost from "./Components/AxiosPost";
 
 function App() {
   return (
     <>
-
-<ImageDownload></ImageDownload>
+<AxiosPost></AxiosPost>
     </>
   );
 }
